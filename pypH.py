@@ -1,6 +1,6 @@
-#!/usr/bin/env python3
+""" This takes an argument between 0 and 14 and returns info about that level of pH. Additionally, facts about pH."""
 
-""" this takes an argument between 0 and 14 and returns info about that level of pH"""
+__version__ = '0.1'
 
 def version():
     return ("Version 0.1")
