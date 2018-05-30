@@ -1,4 +1,4 @@
-""" This takes an argument between 0 and 14 and returns info about that level of pH. Additionally, facts about pH."""
+""" This takes an argument between 0 and 14 and returns info about that level of pH."""
 
 __version__ = '0.1'
 
@@ -58,8 +58,8 @@ def pHSimilarity(x):
         return ("Outside pH range")
 
 
-def humanBloodAlkalineLimit():
-    return 7.45
-
-def humanBloodAcidLimit():
-    return 7.35
+# def humanBloodAlkalineLimit():
+#     return 7.45
+#
+# def humanBloodAcidLimit():
+#     return 7.35
